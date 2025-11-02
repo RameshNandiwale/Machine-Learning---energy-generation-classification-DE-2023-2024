@@ -54,7 +54,7 @@ Predict Germany’s cross-border electricity status (Import/Export) using solar,
 
 ---
 
-## ⚙️ Features Used (ONLY allowed features)
+##  Features Used (ONLY allowed features)
 - `Actual Load [MW]`
 - `Solar - Actual Aggregated [MW]`
 - `Wind Onshore - Actual Aggregated [MW]`
